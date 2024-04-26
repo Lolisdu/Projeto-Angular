@@ -1,4 +1,4 @@
-# PROJETO DEVELOPER ANGULAR <br>
+# DEVELOPER ANGULAR <br>
 Projeto BuzzFeed ❔ <br>
 ##
 
