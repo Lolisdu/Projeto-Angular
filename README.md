@@ -1,5 +1,5 @@
-# DEVELOPER ANGULAR <br>
-Projeto BuzzFeed ❔ <br>
+# Developer Angular <br>
+Projeto BuzzFeed <br>
 ##
 
 
